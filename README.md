@@ -1,1 +1,1 @@
-This is Git Lesson Website
+This is Git Lesson Website. Good!
